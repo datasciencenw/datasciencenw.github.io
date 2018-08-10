@@ -6,7 +6,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'About us, folder: 'pages', file: 'facts.html'}
+- {name: 'About us', folder: 'pages', file: 'facts.html'}
 - {name: 'Training', folder: 'pages', file: 'resources.html'}
 - {name: 'Consulting', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Blog', folder: 'pages', file: 'documentation.html'}
