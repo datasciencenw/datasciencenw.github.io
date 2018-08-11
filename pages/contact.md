@@ -10,6 +10,6 @@ Have a question about our consulting or training services? Or just want to say h
 
 <form action="https://formspree.io/info@datasciencenw.com" method="POST" id="Contact_form" name="Contact_form" style="margin-top:10px">
      <input type="hidden" name="Form" value="Contact form" />
-     <input type="email" name="Email" placeholder="Your email" style="font-size:16px">&nbsp;&nbsp;&nbsp;<button type="submit">Send</button><br>
-     <textarea name="Message" placeholder="Your message" style="width:65%;font-size:16px"></textarea>
+     <input type="email" name="Email" placeholder="Your email" style="font-size:16px;width:70%">&nbsp;&nbsp;&nbsp;<button type="submit">Send</button><br><br>
+     <textarea name="Message" placeholder="Your message" style="width:100%;font-size:16px"></textarea>
 </form>
