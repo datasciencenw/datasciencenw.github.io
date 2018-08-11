@@ -8,6 +8,7 @@ layout: misc
 We follow the F.O.C.U.S principles:
 
 ### Fit for purpose
+
 There is no one-size-fits-all solution
 
 ### Open
