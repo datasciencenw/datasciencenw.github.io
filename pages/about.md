@@ -15,19 +15,19 @@ Our principles can be summarised by the following four *F.O.C.I*:
 
 ### Fit
 
-We provide solutions fit to your problems. There is no one-size-fits-all solution
+We provide solutions *fit* to your problems. There is no one-size-fits-all solution
 
 ### Open
 
-We are passionate about being open, both in the tools we use and the solutions we provide. We only use open source software (e.g.; R, Python). Moreover, we are open about the limitations of our solutions.
+We are passionate about being *open*, both in the tools we use and the solutions we provide. We only use open source software (e.g.; R, Python). Moreover, we are open about the limitations of our solutions.
 
 ### Clean
 
-Simple, elegant, no excess junk. We'd much rather provide a clean, 1 page / 100 line of code solution that does exactly what you want (and nothing more) rather than a 100 page / 10,000 line of code solution that includes a bunch of junk you don't want.
+Simple, elegant, *clean* solutions with no excess junk. We'd much rather provide a clean, 1 page / 100 line of code solution that does exactly what you want (and nothing more) rather than a 100 page / 10,000 line of code solution that includes a bunch of junk you don't want.
 
 ### Insightful
 
-We don’t just provide solutions, we provide actionable insights.
+We don’t just provide solutions, we provide actionable *insights*.
 
 # Influences
 
