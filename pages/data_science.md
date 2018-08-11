@@ -1,9 +1,9 @@
 ---
 layout: misc
-title: Consulting
+title: Data Science
 ---
 
-We over consulting in the following areas
+We over data science services in the following areas
 
 
 <style>
@@ -33,7 +33,7 @@ p.block{
   		<td valign="top">
       		<h4 align="center">Machine Learning</h4>   
       		<p align="center">
-        		<img src="therbootcamp.github.io/assets/img/rlogo_c.png" alt="rlogo" height="150px">
+        		<img src="assets/img/rlogo_c.png" alt="rlogo" height="150px">
         		<br>
         		Get to know the R and RStudio. Load your data into R and do basic calculations and manipulations.
         	</p>
