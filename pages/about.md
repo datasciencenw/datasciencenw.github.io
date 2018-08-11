@@ -41,7 +41,3 @@ Here is a list of our top 10 favorite (non programming) books:
 6. Heuristics
 7. Mindset
 
-
-
-
-
