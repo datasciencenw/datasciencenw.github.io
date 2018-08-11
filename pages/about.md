@@ -1,7 +1,15 @@
 ---
 layout: misc
-title: Principles
 ---
+
+We are a data and decision science company that specialises in discovering elegant, effective, data-driven solutions to problems.
+
+- Machine learning
+- Data visualisation
+- Decision support
+
+## Principles
+
 
 Our principles can be summarised by the following four *F.O.C.I*:
 
