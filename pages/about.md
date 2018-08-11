@@ -32,4 +32,4 @@ We have been greatly inspired and influenced by the following of many others who
 5. Sources of Power by Gary Klein
 6. Simple Heuristics that Make Us Smart by Gigerenzer, Goldstein and the ABC Research Group
 7. Mindset by Carol Dweck
-
+8. The Checklist Manifesto by Atul Gawande
