@@ -14,7 +14,7 @@ We have strict principles that underly everything we do. Our principles can be s
 
 ### Fit
 
-We provide solutions *fit* to specific problems with unique goals, costs, and stakeholders. For this reason, all of our services begin with an intensive consultation where we map out the goals, priorities, costs, and stakeholders underlying each project. There is no one-size-fits-all solution.
+We don't provide one-size-fits-all "solutions". We provide solutions *fit* to specific problems with unique goals, costs, and stakeholders. For this reason, all of our services begin with an intensive consultation where we map out the goals, priorities, costs, and stakeholders underlying each project. 
 
 ### Open
 
@@ -22,13 +22,19 @@ We are passionate about being *open*, both in the tools we use and the solutions
 
 ### Clean
 
-Simple, elegant, *clean* solutions with no excess junk. We'd much rather provide a clean, 1 page / 100 line of code solution that does exactly what you want (and nothing more) rather than a 100 page / 10,000 line of code solution that includes a bunch of junk you don't want or will never use.
+<q>The best solution in the world is useless (even worse than useless) if it is never used.</q>
 
-We take pride in our work. We don't want our solutions to be used once only to fall into a prgramming dustbin. Rather, we want them to be expanded, refined, and far outlive their original use-case. For this reason, all of our work is extensively documented, fully tested, and scaleable.
+The best way to ensure a solution is never used is to make it complicated, confusing and unintuitive. We don't do that. We provide simple, elegant, *clean* solutions with no excess junk. Clean solutions are those that are actually used and can be refined, expanded, and ultimately far out-live their original use-case. For this reason, we strive to provide solutions that are fully documented with examples, vignettes, and supporting visualisations that stakeholders with no statistical background can understand. 
 
 ### Insightful
 
-We don’t just provide applied solutions, we provide actionable *insights* that will . For example, in 
+We don’t just strive to hit numbers, such as maximising prediction accuracy or minimising code time. We also emphasize creating solutions that provide actionable *insights* to your problems.
+
+## Get in touch
+
+Got questions about how we work or want to discuss a potential project? Go to our [Contact Us](contact.html) page.
+
+
 
 ## Our Influences
 
