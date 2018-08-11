@@ -6,6 +6,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Team', folder: 'pages', file: 'team.html'}
 - {name: 'Training', folder: 'pages', file: 'training.html'}
