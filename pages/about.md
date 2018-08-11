@@ -6,21 +6,19 @@ layout: misc
 
 We are a data and decision science company that provides elegant, effective, data-driven solutions to problems.
 
-## What we do
-
-We have to primary offers: data science solutions and hands-on training workshops. To learn more about our offers, click the [Data Science](pages/data_science.html) and [Training](pages/training.html) links above.
+We have two primary offers: data science solutions and hands-on training workshops in the R programming language, statistics, and machine learning. To learn more about our offers, click the [Data Science](pages/data_science.html) and [Training](pages/training.html) links above.
 
 ## How we do it
 
-Our principles can be summarised by the following four *F.O.C.I*:
+We have strict principles that underly everything we do. Our principles can be summarised by the following four *F.O.C.I*:
 
 ### Fit
 
-We provide solutions *fit* to your problems. There is no one-size-fits-all solution
+We provide solutions *fit* to specific problems with unique goals, costs, and stakeholders. For this reason, all of our services begin with an intensive consultation where we map out the goals, priorities, costs, and stakeholders underlying each project. There is no one-size-fits-all solution
 
 ### Open
 
-We are passionate about being *open*, both in the tools we use and the solutions we provide. We only use open source software (e.g.; R, Python). Moreover, we are open about the limitations of our solutions.
+We are passionate about being *open*, both in the tools we use and the solutions we provide. We only use open source software (e.g.; R, Python). We are also passionate about contributing to the open source community; for this reason, we offer a substantial discount when our work can be shared freely online.
 
 ### Clean
 
