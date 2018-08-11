@@ -3,7 +3,7 @@ layout: page
 title: Principles
 ---
 
-Our principles follow F.O.C.I:
+Our principles can be summarised by the following four *F.O.C.I*:
 
 ### Fit
 
@@ -21,15 +21,15 @@ Simple, elegant, no excess junk. We'd much rather provide a clean, 1 page / 100 
 
 We don’t just provide solutions, we provide actionable insights.
 
-## Influences
+# Influences
 
-Here is a list of our top 10 favorite (non programming) books:
+We have been greatly inspired and influenced by the following of many others who have greatly influenced how we work. To give you an idea of where we come from, here is a list of our top 10 favorite (non programming) books:
 
-1. The Signal and the Noise
-2. Risk Savvy
-3. Superforecasters
-4. Weapons of Math Destruction
-5. Sources of Power
-6. Heuristics
-7. Mindset
+1. The Signal and the Noise by Nate Silver
+2. Risk Savvy by Gerd Gigerenzer
+3. Superforecasting by Dan Gardner and Philip E. Tetlock
+4. Weapons of Math Destruction by Cathy O'Neil
+5. Sources of Power by Gary Klein
+6. Simple Heuristics that Make Us Smart by Gigerenzer, Goldstein and the ABC Research Group
+7. Mindset by Carol Dweck
 
