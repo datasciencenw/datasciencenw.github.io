@@ -21,6 +21,7 @@ R Trainings
 - Internal trainings at Roche.
 - BaselRBootcamp
 
-Programming
+R Packages
 - yarrr
 - FFTrees
+- VisualResume and IconArray
