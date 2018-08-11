@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "DSNW"
+title:		           "Data Science NW"
 description:	       "Local Data Driven Solutions"
 author:              "Dr. Nathaniel Phillips"
 
