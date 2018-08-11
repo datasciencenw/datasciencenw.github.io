@@ -6,14 +6,11 @@ layout: misc
 
 We are a data and decision science company that provides elegant, effective, data-driven solutions to problems.
 
-We specialise in the following four areas:
+## What we do
 
-- Machine learning
-- Data visualisation
-- R Package development
-- Decision support
+We have to primary offers: data science solutions and hands-on training workshops. To learn more about our offers, click the [Data Science](pages/data_science.html) and [Training](pages/training.html) links above.
 
-## Our Principles
+## How we do it
 
 Our principles can be summarised by the following four *F.O.C.I*:
 
@@ -33,7 +30,7 @@ Simple, elegant, *clean* solutions with no excess junk. We'd much rather provide
 
 We don’t just provide solutions, we provide actionable *insights*.
 
-# Influences
+## Our Influences
 
 We have been greatly inspired and influenced by the following of many others who have greatly influenced how we work. To give you an idea of where we come from, here is a list of our top 10 favorite (non programming) books:
 
