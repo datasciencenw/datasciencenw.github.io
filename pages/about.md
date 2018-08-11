@@ -2,7 +2,7 @@
 layout: misc
 ---
 
-## F.O.C.I Principles
+## Principles
 
 ### Fit
 
