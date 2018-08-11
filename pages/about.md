@@ -2,14 +2,16 @@
 layout: misc
 ---
 
-We are a data and decision science company that specialises in discovering elegant, effective, data-driven solutions to problems.
+We are a data and decision science company that provides elegant, effective, data-driven solutions to problems.
+
+We specialise in the following four areas:
 
 - Machine learning
 - Data visualisation
+- Package development
 - Decision support
 
 ## Principles
-
 
 Our principles can be summarised by the following four *F.O.C.I*:
 
