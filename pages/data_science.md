@@ -1,9 +1,9 @@
 ---
 layout: misc
-title: Consulting
+title: Data Science
 ---
 
-We over consulting in the following areas
+We over data science services in the following areas
 
 
 <style>
