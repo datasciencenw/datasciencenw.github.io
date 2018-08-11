@@ -1,8 +1,9 @@
 ---
 layout: misc
+title: Principles
 ---
 
-## Principles
+Our principles follow F.O.C.I:
 
 ### Fit
 
