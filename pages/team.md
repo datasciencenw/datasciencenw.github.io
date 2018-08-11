@@ -5,9 +5,7 @@ title: Team
 
 ## Dr. Nathaniel Phillips, Founder
 
-<img src=""
-
-![](../../assets/img/nathaniel_narrow_small.png)
+<img src="https://github.com/datasciencenw/datasciencenw.github.io/blob/master/assets/img/nathaniel_narrow_small.png?raw=true">
 
 Data Science Northwest was founded by Dr. Nathaniel Phillips, CEO in 2019.
 
