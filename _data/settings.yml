@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'About us', folder: 'pages', file: 'about.html'}
-- {name: 'Training', folder: 'pages', file: 'resources.html'}
+- {name: 'Training', folder: 'pages', file: 'training.html'}
 - {name: 'Consulting', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Blog', folder: 'pages', file: 'documentation.html'}
 
