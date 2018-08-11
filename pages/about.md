@@ -6,7 +6,7 @@ layout: misc
 
 [We](team.html) are a data and decision science company that provides elegant, effective, data-driven solutions to problems. While our solutions are not domain specific, we have extensive experience in psychology, marketing, medical, and pharmaceutical applications.
 
-We have two primary offers: data science solutions and hands-on training workshops in the R programming language, statistics, and machine learning. To learn more about our offers, click the [Data Science](data_science.html) and [Training](training.html) links above.
+We have two primary offers: [data science](data_science.html) solutions and hands-on [training](training.html) workshops in the R programming language, statistics, and machine learning. To learn more about our offers, click the Data Science and Training links above.
 
 ## F.O.C.I Principles
 
