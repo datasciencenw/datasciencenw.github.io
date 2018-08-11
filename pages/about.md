@@ -6,7 +6,7 @@ layout: misc
 
 We are a data and decision science company that provides elegant, effective, data-driven solutions to problems.
 
-We have two primary offers: data science solutions and hands-on training workshops in the R programming language, statistics, and machine learning. To learn more about our offers, click the [Data Science](pages/data_science.html) and [Training](pages/training.html) links above.
+We have two primary offers: data science solutions and hands-on training workshops in the R programming language, statistics, and machine learning. To learn more about our offers, click the [Data Science](data_science.html) and [Training](training.html) links above.
 
 ## How we do it
 
