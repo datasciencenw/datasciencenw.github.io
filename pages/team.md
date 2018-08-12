@@ -5,10 +5,10 @@ title: Team
 
 ## Dr. Nathaniel Phillips, Founder
 
-- LinkedIn
-- GitHub
-
 <img src="https://github.com/datasciencenw/datasciencenw.github.io/blob/master/assets/img/nathaniel_narrow_small.png?raw=true">
+
+- [LinkedIn](https://www.linkedin.com/in/nathanieldphillips/)
+- [GitHub](https://www.github.com/ndphillips)
 
 Dr. Nathaniel Phillips is a Decision and Data Scientist with degrees in Mathematics, and Experimental Psychology and industry experience as a data scientist in the marketing and pharmaceutical industries.
 
