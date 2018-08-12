@@ -7,11 +7,11 @@ title: Team
 
 <img src="https://github.com/datasciencenw/datasciencenw.github.io/blob/master/assets/img/nathaniel_narrow_small.png?raw=true">
 
-Dr. Nathaniel Phillips is a Decision and Data Scientist with a background in Mathematics, and Experimental Psychology. Nathaniel obtained a Bachelors in Mathematics at Grinnell College, a Masters in Psychology at Ohio University, and a PhD in Cognitive Experimental psychology at the University of Basel. He has industry experience as both a Statistician and a Data Scientist in the marketing and pharmaceutical industries.
+Dr. Nathaniel Phillips is a Decision and Data Scientist with degrees in Mathematics, and Experimental Psychology and industry experience as a data scientist in the marketing and pharmaceutical industries.
 
-During his academic career, Nathaniel conducted research in the effects of competition on decision strategies and heuristics. Nathaniel has published articles in top scientific journals, and has given invited talks at psychology and programming conferences around the world.
+Nathaniel obtained his PhD in Cognitive Experimental psychology at the University of Basel in 2014. Over the course of his PhD an two post-doctoral research positions, Nathaniel conducted research in the effects of competition on decision strategies, reinforcement learning in decisions under risk, and the ability of simple heuristics to perform as well as complex machine learning algorithms. Nathaniel has published articles in top scientific journals, and has given invited talks at psychology and programming conferences around the world.
 
-In addition to his research, Nathaniel pursued his passion for education. He has taught dozens of courses from the Bachelors to the PhD level in research methods, statistics, decision making, and R programming. In parallel to teaching, he self published a free, introductory e-book on R titled "YaRrr! The Pirate's Guide to R" that is being used by academic and industry professionals around the world to learn R. 
+In addition to his research, Nathaniel pursued his passion for education. He has taught dozens of courses from the Bachelors to the PhD level in research methods, statistics, decision making, and R programming. In parallel to teaching, he self published a free, introductory e-book on R titled [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/) that is being used by academic and industry professionals around the world to learn R. 
 
 Nathaniel is a strong contributer to the open source programming community. He has written and maintains several open source R packages, including [FFTrees](https://github.com/ndphillips/FFTrees), [yarrr](https://github.com/ndphillips/yarrr), [ShinyPsych](https://github.com/ndphillips/ShinyPsych), and [VisualResume](https://github.com/ndphillips/VisualResume).
 
