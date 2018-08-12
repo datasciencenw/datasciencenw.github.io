@@ -13,7 +13,7 @@ Nathaniel obtained his PhD in Cognitive Experimental psychology at the Universit
 
 In addition to his research, Nathaniel pursued his passion for education. He has taught dozens of courses from the Bachelors to the PhD level in research methods, statistics, decision making, and R programming. In parallel to teaching, he self published a free, introductory e-book on R titled [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/) that is being used by academic and industry professionals around the world to learn the R programming language. 
 
-Nathaniel is a strong contributer to the open source programming community. He has written and maintains several open source R packages, including [FFTrees](https://github.com/ndphillips/FFTrees), [yarrr](https://github.com/ndphillips/yarrr), [ShinyPsych](https://github.com/ndphillips/ShinyPsych), and [VisualResume](https://github.com/ndphillips/VisualResume).
+Nathaniel is a strong contributer to the open source programming community. He has written and maintains several open source R packages, including [FFTrees](https://github.com/ndphillips/FFTrees) for creating and visualising fast-and-frugal decision trees, [yarrr](https://github.com/ndphillips/yarrr) for creating "pirateplots", [ShinyPsych](https://github.com/ndphillips/ShinyPsych) for creating interactive psychology experiments, and [VisualResume](https://github.com/ndphillips/VisualResume) for creating visual resumes.
 
 In 2017, Nathaniel co-founded the [Basel R Bootcamp](http://therbootcamp.github.io), a company providing intensive programming workshops for academics and professionals in Switzerland.
 
