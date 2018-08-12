@@ -8,7 +8,6 @@ title: Team
 <img src="https://github.com/datasciencenw/datasciencenw.github.io/blob/master/assets/img/nathaniel_narrow_small.png?raw=true"  height="60">
 
 
-<a href="https://www.linkedin.com/in/nathanieldphillips/"><i class="fa fa-linkedin"></i></a>
 - <a href="https://www.linkedin.com/in/nathanieldphillips/"><i class="fa fa-linkedin"></i></a>[LinkedIn](https://www.linkedin.com/in/nathanieldphillips/)
 - <a href="https://www.github.com/ndphillips"><i class="fa fa-github"></i></a>[GitHub](https://www.github.com/ndphillips)
 
