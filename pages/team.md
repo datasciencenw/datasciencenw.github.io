@@ -5,8 +5,7 @@ title: Team
 
 ## Dr. Nathaniel Phillips, Founder
 
-<img src="https://github.com/datasciencenw/datasciencenw.github.io/blob/master/assets/img/nathaniel_narrow_small.png?raw=true"  height="60">
-
+<img src="https://github.com/datasciencenw/datasciencenw.github.io/blob/master/assets/img/nathaniel_narrow_small.png?raw=true"  height="60"  align=”left” hspace=”50” vspace=”50”>
 
 <a href="https://www.linkedin.com/in/nathanieldphillips/"><i class="fa fa-linkedin"></i></a>[LinkedIn](https://www.linkedin.com/in/nathanieldphillips/)
 
