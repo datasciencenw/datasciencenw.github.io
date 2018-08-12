@@ -21,6 +21,6 @@ Nathaniel is a strong contributer to the open source programming community. He h
 
 In 2017, Nathaniel co-founded the [Basel R Bootcamp](http://therbootcamp.github.io), a company providing intensive programming workshops for academics and professionals in Switzerland.
 
-In 2018, Nathaniel worked as a data scientist in the Personalised Health Care department at [Roche](http://www.roche.com), a pharmaceutical company based in Basel Switzerland. There, Nathaniel utilised large electronic medical records databases to further the vision of personalised oncology health care.
+In 2018, Nathaniel worked as a data scientist in the Personalised Health Care department at [Roche](http://www.roche.com), a pharmaceutical company based in Basel Switzerland. There, Nathaniel utilised large electronic medical records databases to further the vision of personalised health care in oncology and neuroscience.
 
 In 2019, Nathaniel returned to his beloved home state of Oregon and founded Data Science Northwest.
