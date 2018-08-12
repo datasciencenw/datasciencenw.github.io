@@ -14,3 +14,5 @@ Dr. Nathaniel Phillips is a Decision and Data Scientist with a background in Mat
 In addition to his research, Nathaniel pursued his passion for education. He taught dozens of courses from the Bachelors to the PhD level in research methods, statistics, decision making, and R programming. While teaching, he self published a free, introductory e-book on R titled "YaRrr! The Pirate's Guide to R" that is being used by academic and industry professionals around the world to learn R. In 2017, he co-founded the Basel R Bootcamp, a company providing intensive programming workshops for academics and professionals in Switzerland.
 
 Nathaniel is a strong contributer to the open source community. He has written and maintains several open source R packages, including [FFTrees](https://github.com/ndphillips/FFTrees), [yarrr](https://github.com/ndphillips/yarrr), [ShinyPsych](https://github.com/ndphillips/ShinyPsych), and [VisualResume](https://github.com/ndphillips/VisualResume).
+
+In 2019, Nathaniel returned to his beloved home state of Oregon and founded Data Science Northwest.
