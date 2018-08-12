@@ -4,9 +4,7 @@ layout: misc
 
 ## Who we are
 
-[We](team.html) are a data and decision science company that provides elegant, effective, data-driven solutions to problems. While our solutions are not domain specific, we have extensive experience in psychology, marketing, medical, and pharmaceutical applications.
-
-We have two primary offers: [data science](data_science.html) solutions and hands-on [training](training.html) workshops in the R programming language, statistics, and machine learning.
+[We](team.html) are a data and decision science company that provides elegant, effective, data-driven solutions to problems. We specialize in applications of the R programming language, statistics, and machine learning. Within these applications, we provide [data science](data_science.html) solutions and hands-on [training](training.html) workshops. While our solutions are not domain specific, we have extensive experience in psychology, marketing, medical, and pharmaceutical applications.
 
 ## Principles
 
@@ -22,7 +20,7 @@ We are passionate about being *open*, both in the tools we use and the solutions
 
 ### Clean
 
-<q>The best solution in the world is useless (even worse than useless) if it is never used.</q>
+The best solution in the world is useless (even worse than useless) if it is never used in practice.
 
 The best way to ensure a solution is never used is to make it complicated, confusing and unintuitive. We don't do that. We provide simple, elegant, *clean* solutions with no excess junk. Clean solutions are those that are actually used and can be refined, expanded, and ultimately far out-live their original use-case. For this reason, we strive to provide solutions that are fully documented with examples, vignettes, and supporting visualisations that stakeholders with no statistical background can understand. 
 
@@ -33,7 +31,6 @@ We don’t just strive to hit numbers, such as maximising prediction accuracy or
 ## Get in touch
 
 Got questions about how we work or want to discuss a potential project? Go to our [Contact Us](contact.html) page.
-
 
 
 ## Our Influences
